@@ -28,7 +28,7 @@ p {
 }
 
 #rules {
-  color: #fff;
+  color: #fff !important;
 }
 
 img {
